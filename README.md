@@ -78,4 +78,3 @@ None
 - [ROT13 cipher](http://practicalcryptography.com/ciphers/classical-era/rot13/)
 - [Morse code](https://en.wikipedia.org/wiki/Morse_code)
 - [Rail-fence cipher](http://practicalcryptography.com/ciphers/classical-era/rail-fence/)
-
